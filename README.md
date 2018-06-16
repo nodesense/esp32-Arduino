@@ -1,2 +1,2 @@
 # esp32-Arduino
-Arduino codes for esp32
+C Codes for esp32 with Arduino core
